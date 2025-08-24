@@ -89,7 +89,7 @@ Your productivity engine using the PARA methodology:
 #### 👥 People MOC
 Your personal CRM:
 - Track relationships with "New People Note" button → [[People Template]]
-- Categorize contacts (Work/Personal/Creative)
+- Categorize contacts (Work/Personal...)
 
 #### 📚 Books MOC
 Knowledge repository:
